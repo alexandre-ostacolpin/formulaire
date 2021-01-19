@@ -1,0 +1,33 @@
+/* GOOGLE FONT */
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+                               /* COLORS GUIDE */
+/*                  ### Primary
+    Red: hsl(0, 100%, 74%) 
+    Green: hsl(154, 59%, 51%) 
+                        ### Accent
+    Blue: hsl(248, 32%, 49%)
+                        ### Neutral
+    Dark Blue: hsl(249, 10%, 26%) 
+    Grayish Blue: hsl(246, 25%, 77%)
+*/
+                        /* SIZE MODE  */
+
+
+
+                            /* STYLES PRINCIPAL */
+body {
+    background-image: url("../images/bg-intro-mobile.png");
+    background-color: hsl(0, 100%, 74%);
+   }
+
+#button-blue {
+    background-color: hsl(248, 32%, 49%);
+    color: white;
+}
+                                        /* ATTRIBUTION */
+/* Feel free to remove these styles or customise in your own stylesheet 👍*/
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
